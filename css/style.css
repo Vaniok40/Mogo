@@ -91,6 +91,12 @@ nav {
       rgba(252, 227, 138, 0.9)
     ),
     url("../img/bird.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 124px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
 }
 /*slider*/
 
